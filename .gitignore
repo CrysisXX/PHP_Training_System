@@ -1,0 +1,19 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/Team_Agile/v15/Server/sqlite3/db.lock
+/.vs/Team_Agile/v15/Server/sqlite3/storage.ide
+/.vs/Team_Agile/v15/Server/sqlite3/storage.ide-shm
+/.vs/Team_Agile/v15/Server/sqlite3/storage.ide-wal
+/.vs/Team_Agile/v15/.suo
+/Team_Agile/obj/Debug
+/Lib/obj/Debug
+/Test'/obj/Debug
+/obj/Debug
+/.vs/Team_Agile/v16/Server/sqlite3
+/.vs/Team_Agile/v16
+/Lib/bin/Debug
+/Team_Agile/bin/Debug
+/Test/bin/Debug
+/Test/obj/Debug
